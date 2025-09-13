@@ -11,9 +11,9 @@ Sou estudante de Sistemas de Informação (UNINASSAU – 4º semestre), apaixona
 📊 Interesses: Análise de Dados | Desenvolvimento Web & Mobile | Automação | Bancos de Dados
 
 * ✉️  Você pode falar comigo [devgabriel03s@gmail.com](mailto:devgabriel03s@gmail.com)
-* 🚀  I'm currently working on [Oxê Comprei](http://https://github.com/Gabri3lMoraes/OxeComprei)
-* 🧠  I'm currently learning React Native / Flutter
-* 👥  I'm looking to collaborate on Projetos
+* 🚀 Atualmente estou trabalhando em [Oxê Comprei](http://https://github.com/Gabri3lMoraes/OxeComprei)
+* 🧠  Atualmente estou aprendendo React Native / Flutter
+* 👥  Estou procurando colaborar em Projetos e Trabalhos
 * 💬  Ask me about I'm secretly Spiderman... but don't tell anyone
 
 <p align="left">
